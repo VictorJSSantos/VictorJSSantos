@@ -5,7 +5,7 @@
 - 💼 Em mudança de carreira, pausa para estudar.
 - 🌱 Aprendendo mais sobre AWS e Azure e também sobre Databricks.
 
-## Minhas Skills
+## Minhas habilidades
 
 **Aplicações e dados**
 
@@ -15,6 +15,11 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Habilidades em Desenvolvimento**
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
@@ -26,6 +31,8 @@
 <a href="https://github.com/VictorJSSantos" title="Perfil do Victor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorJSSantos&theme=dracula&show_icons=true" />
 </a>
+
+![Snake animation](https://github.com/VictorJSSantos/VictorJSSantos/blob/output/github-contribution-grid-snake.svg)
 
 ## Onde me encontrar
 
