@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Para acessar o README em Português-BR acesse este [link](https://github.com/VictorJSSantos/VictorJSSantos/blob/main/README.pt-br.md)
+
 ## About Me
 
 🤔 Transitioning to a career in Data Engineering!
