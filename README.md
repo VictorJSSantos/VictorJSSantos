@@ -1,8 +1,11 @@
 ## About Me
 
 🤔 Transitioning to a career in Data Engineering!
+
 🎓 Currently pursuing a postgraduate degree in Machine Learning Engineering at FIAP.
+
 💼 Taking a career break to focus on studies.
+
 🌱 Expanding my knowledge in AWS, Azure, and Databricks.
 
 ## My skills
