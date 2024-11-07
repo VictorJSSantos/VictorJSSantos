@@ -38,8 +38,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorJSSantos&theme=dracula&show_icons=true" />
 </a>
 
-![Snake animation](https://github.com/VictorJSSantos/VictorJSSantos/blob/output/github-contribution-grid-snake.svg)
-
 ## Contacts 
 
 [![Linkedin](https://img.shields.io/badge/-victorjssantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorjssantos/)](https://www.linkedin.com/in/victorjssantos/)
