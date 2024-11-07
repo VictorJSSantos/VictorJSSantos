@@ -1,3 +1,6 @@
+> [!NOTE]  
+> To access this README in English, click here in this [link](https://github.com/VictorJSSantos/VictorJSSantos/blob/main/README.md)
+
 ## Sobre mim
 
 - 🤔 Mudando de carreira para a área de Engenharia de Dados! 
