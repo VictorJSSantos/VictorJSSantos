@@ -48,7 +48,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-victorjssantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorjssantos/)](https://www.linkedin.com/in/victorjssantos/)
-[![Gmail Badge](https://img.shields.io/badge/-victorjs.santos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorjs.santos@gmail.com)](mailto:victorjs.santos@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/VictorJSSantos?label=follow&style=social)](https://github.com/VictorJSSantos)
 
 ![](https://komarev.com/ghpvc/?username=VictorJSSantos&color=006bed)
